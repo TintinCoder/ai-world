@@ -1,0 +1,238 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Baloo Bhai 2', cursive;
+    color: #303030;
+}
+
+
+nav {
+    width: auto;
+    height: 10vh;
+    background-color: rgb(24, 235, 221);  
+    text-align: center;
+}
+
+
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 12px 11px;
+}
+
+nav ul li a {
+    cursor: pointer;
+    text-decoration: none;
+    color: #303030;
+    font-size: 1.1rem;
+}
+
+.ques1 {
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+.ans {
+    display: flex;
+    justify-content: center;
+}
+
+.ai {
+    font-size: 1.2rem;
+    margin-top: 26px;
+    margin-left: 5px;
+}
+
+.ai1Img {
+    width: 207px;
+    height: auto;
+    margin-right: 10px;
+}
+
+#goals .title { 
+    margin-left: 5px;
+    display: inline-block;
+}
+
+#goals {
+    margin-left: 5px;
+}
+
+#goals ul li {
+    font-size: 1.1rem;
+}
+
+.hisTitle {
+    margin-left: 20px;
+    margin-top: 12px;
+}
+
+
+.history p {
+    width: 100%;
+    height: auto;
+    word-spacing: 1px;
+    display: inline-block;
+    letter-spacing: 1px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+.his1 {
+    float: left;
+    margin-top: -50px;
+}
+
+.serious {
+    margin-left: 10px;
+    display: flex;
+}
+
+.serious p {
+    letter-spacing: 1px;
+    margin-left: 5px;
+    margin-top: 10px;
+}
+
+.aiWinter {
+    display: flex;
+}
+
+p {
+    font-size: 18.5px;
+}
+
+h1, p, h2, h3, h4 {
+    margin-left: 10px;
+}
+
+.aiWinter p {
+    letter-spacing: 1px;
+    margin: 10px;
+    height: auto;
+}
+
+.new {
+    margin-left: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.new img {
+    margin-bottom: 25px;
+}
+
+.new p {
+    margin-left: 5px;
+    letter-spacing: 1px;
+}
+
+.intro {
+    margin-left: 10px;
+}
+
+.intro ul li {
+    font-size: 1.2rem;
+    color: #504a4a;
+    list-style: none;
+}
+
+.intro ul li::first-letter {
+    font-size: larger;
+    color: black;
+}
+
+.branches {
+    display: flex;
+    justify-content: space-between;
+}
+
+.branches .lis {
+    margin-top: 15px;
+}
+
+.AI {
+    width: 550px;
+    height: auto;
+}
+
+.nlu h1 {
+    margin-left: 10px;
+}
+
+.nlu p {
+    letter-spacing: 1px;
+    word-spacing: .5px;
+    margin-left: 10px;
+    font-size: 19px;
+}
+
+.nlu .company {
+    margin-left: 10px;
+}
+
+.watsonTitle {
+    margin-left: 10px;
+}
+
+.watson {
+    margin-left: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.watson img {
+    margin-right: 5px;
+    margin-bottom: 10px;
+    width: 204px;
+    height: auto;
+}
+
+.healthCare {
+    display: flex;
+    align-items: center;
+}
+
+.def li {
+    list-style: none;
+    margin-left: 10px;
+}
+
+#healthcare {
+    display: flex;
+    align-items: center;
+}
+
+#healthcare img {
+    margin: 0px 10px;
+}
+
+#travel {
+    display: flex;
+    align-items: center;
+}
+
+#travel img {
+    margin: 0px 10px;
+}
+
+#media {
+    display: flex;
+    align-items: center;
+}
+
+#media img {
+    margin: 0px 10px;
+}
+
+#finance {
+    display: flex;
+    align-items: center;
+}
+
+#finance img {
+    margin: 0px 10px;
+}
